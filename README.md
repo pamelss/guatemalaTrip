@@ -28,8 +28,18 @@
 
 *   ### Wireframes
 
-    * Landscape Page Wireframe ![LandScape](WireFrames/Landscape.png)
-    * Home Page wireframe![Home Page](<WireFrames/Project One.png>)
+    * Landscape Page Wireframe 
+    ![Alt text](assets/img/WireFrames/Landscape.png)
+  
+
+    * Home Page Wireframes 
+    ![Alt text](<assets/img/WireFrames/Contact Us 1.png>)
+
+<!-- 
+    <p align="center">
+<img src="assets/img/WireFrames/Landscape.png" width="600" height="100%">
+</p> -->
+
 
     * Contact Us Page Wireframe![Contact Us Wireframe](<WireFrames/Contact Us 1.png>)
 
