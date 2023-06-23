@@ -4,9 +4,9 @@ body {
   color: #505962;
 }
 
-/* .home-inner {
+.home-inner {
   background-image: url('img/homePage.jpg');
-} */
+}
 
 /*--- iOS Landing Page Fix --*/
 .landing {
