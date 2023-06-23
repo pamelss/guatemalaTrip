@@ -1,4 +1,11 @@
+# Guatemala's Trips
 
+
+This is an official website where you can find a valid, time-real news and updates about the souces how to discover more. Contact agencies to find out more. 
+reliable and funcionality to inform you about your next trip to Guatemala country, Maya World heart.
+
+
+![This is a screenshot of the TXR homepage on multiple devices](assets/img/website.png)
 
 <h1 align="center">Milestones Project 1</h1>
 
