@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Project One</h1>
+<h1 align="center">Milestones Project 1</h1>
 
 
 
@@ -27,13 +27,30 @@
         -   An landscape image as to adversite the visitor what is about when they first open the website.
 
 *   ### Wireframes
+    + Desktop Version:
 
-    * Landscape Page Wireframe 
-    ![Alt text](assets/img/WireFrames/Landscape.png)
-  
+        * Home Page:
+        ![Home Page](<assets/img/WireFrames/Project One.png>) 
 
-    * Home Page Wireframes 
-    ![Alt text](<assets/img/WireFrames/Contact Us 1.png>)
+        * Landscape Page:
+        ![Landing Page](assets/img/WireFrames/Landscape.png)
+
+        * Contact Us Page:
+        ![Contact us page](<assets/img/WireFrames/Contact Us 1.png>)
+
+        * Gallery Page:
+        ![Gallery page](<assets/img/WireFrames/Gallery 2.png>)
+
+
+    + Mobile Version:
+        * Home Page:
+        ![Mobile Page](<assets/img/WireFrames/Mobile Home.png>)
+
+        * Contact Us Page:
+        ![Contact us page](<assets/img/WireFrames/Mobile Contact Us.png>)
+
+        * Gallery Page:
+        ![Gallery page](<assets/img/WireFrames/Mobile Gallery.png>)
 
 <!-- 
     <p align="center">
@@ -41,11 +58,6 @@
 </p> -->
 
 
-    * Contact Us Page Wireframe![Contact Us Wireframe](<WireFrames/Contact Us 1.png>)
-
-    * Contact Us Page Wireframe![Gallery Wireframe](<WireFrames/Gallery 2.png>) 
-
-    * Mobile Wireframe![Mobile Wireframe](<WireFrames/Mobile .png>)
 
 ## Features
 
@@ -76,32 +88,28 @@
 
 ### Accesibility
 
-* Lighthouse Devtool from Google Chrome used for testing.
-* Lighthouse testing:
+Lighthouse Devtool from Google Chrome used for testing.
 
- + Descktop Version:
-    - Land Page:
-
-        ![lighthouse landing page desktop](<LightHouse Test/LandPage.png>) 
++ Descktop Version:
+    - Home Page:
+    ![lighthouse landing page desktop](<assets/img/LightHouse Test/LandPage.png>)
 
     - Contact Us Page:
+    ![lighthouse Contact Page](<assets/img/LightHouse Test/Contact Page.png>)
 
-        ![lighthouse Contact Page](<LightHouse Test/Contact Page.png>)
-    - Gallary Page:
+    - Gallery Page:
+    ![lighthouse Gallary Page](<assets/img/LightHouse Test/Gallery Page.png>)
 
-        ![lighthouse Gallary Page](<LightHouse Test/Gallery Page.png>)
 + Mobile Version:
-    - Land Page:
-      ![lighthouse Land Page](<LightHouse Test/Mobile Home Page.png>)
 
+    - Home Page:
+      ![lighthouse Home Page](<assets/img/LightHouse Test/Mobile Home Page.png>)
 
     - Mobile Contact Page:
-
-        ![Contact Us](<LightHouse Test/Mobile Contact .png>)
+    ![Contact Us](<assets/img/LightHouse Test/Mobile Contact .png>)
 
     - Mobile Gallery Page:
-
-        ![Gallery](<LightHouse Test/Mobile Gallery.png>)
+    ![Gallery](<assets/img/LightHouse Test/Mobile Gallery.png>)
 
 ## Testing
 
@@ -112,7 +120,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--  on mobile V the spand burger menu is over the main img landscape
+-  On mobile Version the spand burger menu is over the main img landscape
 -  Dishes img are not lined up.
 -  Anchor tags are not jumping straight to the specific title of the section.
 
