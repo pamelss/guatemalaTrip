@@ -10,7 +10,7 @@ h3 {
 }
 
 .home-inner {
-  background-image: url('/assets/img/homePage.jpg');
+  background-image: url(assets/img/homepage.jpg)
 }
 
 /*--- iOS Landing Page Fix --*/
