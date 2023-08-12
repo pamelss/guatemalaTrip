@@ -139,7 +139,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -  Anchor tags are not jumping straight to the specific title of the section.
 - The landing homepage is not vissible when deploying in GoitHub.
     - Landing Homepage:
-    ![Gallery](<assets/img/WireFrames/HomePage_LandingPage.png>)
+
+    ![Homepage](<assets/img/WireFrames/HomePage_LandingPage.png>)
 
 ### Acknowledgements
 
