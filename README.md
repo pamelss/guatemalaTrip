@@ -4,6 +4,8 @@
 This is an official website where you can find a valid, time-real news and updates about the souces how to discover more. Contact agencies to find out more. 
 reliable and funcionality to inform you about your next trip to Guatemala country, Maya World heart.
 
+[View live project here] https://pamelss.github.io/guatemalaTrip/index.html
+
 
 ![This is a screenshot of the TXR homepage on multiple devices](assets/img/website.png)
 
@@ -120,14 +122,24 @@ Lighthouse Devtool from Google Chrome used for testing.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+ ## HTML W3C Validator
+
+- [W3C Markup Validator](https://validator.w3.org/)
+    - [Home page Results](<assets/img/WireFrames/W3Cvalidator.png>)
+    - [Contact Us page Results](<assets/img/WireFrames/W3CvalidatorContact.png>)
+    - [Gallery page Results](<assets/img/WireFrames/W3CvalidatorGallery.png>)
+
+ ## CSS W3C Validator
+-   [W3C CSS Validator Results](<assets/img/WireFrames/W3C_CSS_VALIDATOR.png>)
 
 ### Known Bugs
 
 -  On mobile Version the spand burger menu is over the main img landscape
 -  Dishes img are not lined up.
 -  Anchor tags are not jumping straight to the specific title of the section.
+- The landing homepage is not vissible when deploying in GoitHub.
+    - Landing Homepage:
+    ![Gallery](<assets/img/WireFrames/HomePage_LandingPage.png>)
 
 ### Acknowledgements
 
